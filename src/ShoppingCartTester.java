@@ -21,6 +21,7 @@ public class ShoppingCartTester {
 			
 			// Test instructions getter
 			//System.out.println("**Printing just the instructions**\n" + cart1.getInstructions() + "\n");
+		 
 			// Test free shipping for orders > $50
 			//cart1.addItem("Playstation 5", 499.00);
 			//System.out.println("**Printing an order that qualifies for free shipping**\n" + cart1);
